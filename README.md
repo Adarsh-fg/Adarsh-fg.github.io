@@ -29,25 +29,6 @@ Welcome to my personal portfolio website built using HTML5UP's template. This si
 
 ---
 
-## 📂 Folder Structure
-
-```
-.
-├── assets/
-│   ├── css/
-│   │   ├── main.css
-│   │   └── noscript.css
-│   ├── js/
-│   │   ├── main.js
-│   │   ├── browser.min.js
-│   │   ├── jquery.min.js
-│   │   └── breakpoints.min.js
-├── index.html
-└── README.md
-```
-
----
-
 ## 🛠️ How to Use
 
 1. **Clone the repo**
