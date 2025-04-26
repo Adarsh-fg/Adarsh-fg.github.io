@@ -56,4 +56,3 @@ Connect with me:
 
 Design template © [HTML5 UP](https://html5up.net).  
 Content and custom code © 2025 Adarsh P.
-```
